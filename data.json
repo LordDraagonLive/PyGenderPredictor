@@ -1,0 +1,68 @@
+{"Data":[
+    {
+        "height":180,
+        "weight":80,
+        "shoe size":44,
+        "gender":"Male"
+    },
+    {
+        "height":177,
+        "weight":70,
+        "shoe size":43,
+        "gender":"Female"
+    },
+    {
+        "height":160,
+        "weight":60,
+        "shoe size":38,
+        "gender":"Female"
+    },
+    {
+        "height":154,
+        "weight":54,
+        "shoe size":37,
+        "gender":"Female"
+    },
+    {
+        "height":166,
+        "weight":65,
+        "shoe size":40,
+        "gender":"Male"
+    },
+    {
+        "height":190,
+        "weight":90,
+        "shoe size":47,
+        "gender":"Male"
+    },
+    {
+        "height":175,
+        "weight":64,
+        "shoe size":39,
+        "gender":"Male"
+    },
+    {
+        "height":177,
+        "weight":70,
+        "shoe size":40,
+        "gender":"Female"
+    },
+    {
+        "height":159,
+        "weight":55,
+        "shoe size":37,
+        "gender":"Male"
+    },
+    {
+        "height":171,
+        "weight":75,
+        "shoe size":42,
+        "gender":"Female"
+    },
+    {
+        "height":181,
+        "weight":85,
+        "shoe size":43,
+        "gender":"Male"
+    }
+]}

@@ -1,6 +1,8 @@
 # Importing a decision tree from scikit-learn package
 from sklearn import tree
 
+import json
+
 # py list of lists with [height, weight, shoe size] data of each person (includes 11 people)
 # These data can be used for our gender prediction
 pplList = [[182, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], [166, 65, 40], [190, 90, 47], [175, 64, 39], [177, 70, 40],

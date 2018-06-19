@@ -35,6 +35,8 @@ clf = clf.fit(pplList,pplGenderList)
 
 # We are using the trained clasifier var to predict the gender
 # of the given person (person's height, weight, and shoe size)
-prediction = clf.predict([[190, 70, 43]])
+# given data is of a Male
+prediction = clf.predict([[190, 70, 43]]) 
+
 
 print(prediction)
